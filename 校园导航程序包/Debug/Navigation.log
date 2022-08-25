@@ -1,0 +1,3 @@
+﻿  Navigation.cpp
+D:\数据结构实验\课程设计\2\Navigation\Navigation.cpp(391,12): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+  Navigation.vcxproj -> D:\数据结构实验\课程设计\2\Debug\Navigation.exe
