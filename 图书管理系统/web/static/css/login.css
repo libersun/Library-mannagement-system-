@@ -1,0 +1,55 @@
+.body {
+    background-color: deepskyblue;
+}
+
+
+.box .login {
+    margin-left: 38%;
+    margin-top: 15%;//上部边距
+}
+
+.box .login .subInput {
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.box .login .pwd {//登录页面的密码样式
+    margin-left: 34px;
+}
+
+.box .login .subBtn {//登录按钮的样式
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    width: 120px;
+    height: 40px;
+    margin-left: 125px;
+    border-radius: 10px;
+    background-color: orange;
+}
+
+.login h1 {
+    font-family: "楷体";
+    font-size: 36px;
+    font-weight: 900;
+    color: orange;
+    font-style: italic;
+    margin-left: -90px;
+}
+
+.font {
+    font-family: "楷体";
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}
+
+.errorMsg {//输入错误时候弹出的字的样式
+    color: red;
+    font-size: 30px;
+    font-style: inherit;
+    margin-left: 50px;
+}
